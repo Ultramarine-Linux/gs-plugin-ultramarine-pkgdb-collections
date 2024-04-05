@@ -1,7 +1,7 @@
 # gs-plugin-ultramarine-pkgdb-collections
 
 A GNOME Software plugin for the ultramarine pkgdb collections, allowing for system upgrades between major UM versions.
-This is a soft fork of the in-tree module used for [Fedora](https://gitlab.gnome.org/GNOME/gnome-software/-/blob/main/plugins/fedora-pkgdb-collections). We basically just renamed the symbols from "fedora" to "ultramarine" and updated the URL to use our own "pkgdb collections" API.
+This is a soft fork of the [in-tree module used for Fedora](https://gitlab.gnome.org/GNOME/gnome-software/-/blob/main/plugins/fedora-pkgdb-collections). We basically just renamed the symbols from "fedora" to "ultramarine" and updated the URL to use our own "pkgdb collections" API.
 
 Major thanks to https://github.com/Cogitri/gnome-software-plugin-apk, which I referenced in order to make this module work out-of-tree.
 
