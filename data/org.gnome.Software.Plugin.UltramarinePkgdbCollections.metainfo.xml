@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="addon">
+  <id>org.gnome.Software.Plugin.UltramarinePkgdbCollections</id>
+  <extends>org.gnome.Software.desktop</extends>
+  <name>Ultramarine Pkgdb Collections Support</name>
+  <summary>Allows GNOME Software to query the Ultramarine pkgdb collections for system upgrades</summary>
+  <url type="homepage">https://ultramarine-linux.org</url>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-2.0-or-later</project_license>
+  <update_contact>contact@fyralabs.com</update_contact>
+</component>
