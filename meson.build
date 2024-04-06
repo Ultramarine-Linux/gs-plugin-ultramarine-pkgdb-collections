@@ -1,4 +1,8 @@
-project('gs-plugin-ultramarine-pkgdb-collections', 'c')
+project(
+  'gs-plugin-ultramarine-pkgdb-collections',
+  'c',
+  version: '0.1.0'
+)
 
 gnome_software_dep = dependency('gnome-software', version: '>=45.0')
 plugin_install_dir = gnome_software_dep.get_variable('plugindir')
