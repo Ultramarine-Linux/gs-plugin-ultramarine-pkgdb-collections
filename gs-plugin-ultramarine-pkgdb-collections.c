@@ -24,7 +24,7 @@
  * locking.
  */
 
-#define ULTRAMARINE_PKGDB_COLLECTIONS_API_URI "http://localhost:8080/collections.json"
+#define ULTRAMARINE_PKGDB_COLLECTIONS_API_URI "https://ultramarine-linux.org/pkgdb/collections.json"
 
 struct _GsPluginUltramarinePkgdbCollections {
 	GsPlugin	 parent;
